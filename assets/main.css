@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(0,31,36);
+    background: linear-gradient(90deg, rgba(0,31,36,1) 0%, rgba(108,9,121,1) 100%);
+}
+.navicon{
+    display: inline-block;
+    width: 20px;
+    height: 16px;
+}
+.uptitle{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu-nav{
+    margin: 0;
+    background: rgb(0,31,36);
+}
+.menu-ul{
+    text-align: right;
+}
+.menu-link{
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px auto;
+    width: 80px;
+    padding: 5px 25px;
+    font-size: 18px;
+}
+.menu-link a{
+    text-decoration: none;
+    color: #fff;
+}
